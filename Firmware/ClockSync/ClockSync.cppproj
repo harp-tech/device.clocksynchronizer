@@ -175,7 +175,7 @@
   <avrgcccpp.linker.libraries.Libraries>
     <ListValues>
       <Value>libm</Value>
-      <Value>libATxmega16A4U_ClockSync-1.13.a</Value>
+      <Value>libATxmega16A4U_ClockSync-1.15.a</Value>
     </ListValues>
   </avrgcccpp.linker.libraries.Libraries>
   <avrgcccpp.linker.libraries.LibrarySearchPaths>
